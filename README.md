@@ -19,6 +19,7 @@ There are two tables that are created, the sections table, and the books table. 
 Visual Studio Code
 
 Languages:Python, SQL
+
 Libraries:sqlite3, SQlite
 
 # Useful Websites
