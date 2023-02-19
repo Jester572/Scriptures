@@ -6,7 +6,7 @@ This software is a two part software. The first is a python file using sqlite3 t
 This database contains the sections of the scriptures and each book within those sections. It also contains the number of chapters within each book. This is to help in knowing which books have the most chapters and comparing them all.
 
 
-[Software Demo Video]([http://youtube.link.goes.here](https://youtu.be/DJrvk6VN49Y))
+[Software Demo Video](https://youtu.be/DJrvk6VN49Y)
 
 # Relational Database
 
